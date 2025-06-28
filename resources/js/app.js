@@ -242,15 +242,7 @@ window.KoperasiApp = {
   // ... fungsi lain ...
 };
 
-// function hideNotification(notification) {
-//   notification.style.opacity = "0"
-//   notification.style.transform = "translateX(100%)"
-//   setTimeout(() => {
-//     if (notification.parentNode) {
-//       notification.parentNode.removeChild(notification)
-//     }
-//   }, 300)
-// }
+
 
 // Utility functions
 function formatCurrency(amount) {
